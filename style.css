@@ -1,0 +1,18 @@
+body{
+  background-color:#ffcccc;
+}
+
+.intro{
+  font-family: cursive;
+  color: green;
+}
+
+.mine{
+  font-weight:normal;
+  color:#66BFBF;
+}
+
+u{
+  text-decoration: underline;
+  text-decoration-color: red;
+}
